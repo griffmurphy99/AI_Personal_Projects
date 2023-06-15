@@ -17,7 +17,7 @@ class Chatbot:
         return answer
 
 # Example usage
-api_key = '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'
+api_key = #Insert API key here****
 chatbot = Chatbot(api_key)
 
 while True:
